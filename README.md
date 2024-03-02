@@ -1,6 +1,9 @@
+
 # NEAT Self Driving Car with Pygame
 
 This project implements a simple car simulation game using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm and Pygame library in Python.
+
+![Screenshot 2024-03-02 111014](https://github.com/amalsam/Self-Driving-Car-Simulation/assets/47856775/5b0b998a-a88e-490a-8cf1-cddb45ff355b)
 
 ## Overview
 
