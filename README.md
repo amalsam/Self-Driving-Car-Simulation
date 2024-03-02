@@ -23,26 +23,23 @@ Before running the program, make sure you have the following installed:
 
 You can install Pygame and NEAT via pip:
 
-```bash
-pip install pygame
-pip install neat-python```
+```bash pip install pygame```
+```pip install neat-python```
 
 
-``` git clone https://github.com/amalsam/Self-Driving-Car-Simulation.git
-```
+``` git clone https://github.com/amalsam/Self-Driving-Car-Simulation.git```
 ```cd Self-Driving-Car-Simulation ```
-```python main.py
-```
+```python main.py```
 
 
 
-##Customization
+## Customization
 You can customize various aspects of the game, such as track layout, car appearance, and neural network configuration:
 
 Modify the track image in the Assets folder to change the track layout.
 Adjust parameters in the config.txt file to modify the NEAT algorithm's behavior.
 Replace the car image in the Assets folder to change the car's appearance.
 
-##Acknowledgements
+## Acknowledgements
 This project was inspired by various tutorials and resources on NEAT and Pygame.
 Special thanks to OpenAI for developing the NEAT library.
